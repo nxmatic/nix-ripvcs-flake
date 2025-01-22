@@ -1,0 +1,21 @@
+{
+    "ripvcs": {
+        "cargoLocks": null,
+        "date": "2024-09-13",
+        "extract": null,
+        "name": "ripvcs",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "6ffd0c1890809257fb4aa0c047ce5e66c5c339f4",
+            "sha256": "sha256-ThWTTgWLnuXIUGghcdoaFUQSzIOREJ29M6kD2AaUbrc=",
+            "type": "git",
+            "url": "https://github.com/ErickKramer/ripvcs.git"
+        },
+        "version": "6ffd0c1890809257fb4aa0c047ce5e66c5c339f4"
+    }
+}

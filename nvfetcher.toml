@@ -1,0 +1,4 @@
+[ripvcs]
+src.git = "https://github.com/ErickKramer/ripvcs.git"
+fetch.git = "https://github.com/ErickKramer/ripvcs.git"
+src.tag = "v0.1.3"
